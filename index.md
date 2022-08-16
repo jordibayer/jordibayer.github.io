@@ -4,11 +4,13 @@
 
 Hello, my name is Jordi. I am passionate about technology, data, stock market analysis, and videogames. I obtained a degree in Business Administration from the Universitat Autònoma de Barcelona and a master's degree in Financial Management from the Universitat Pompeu Fabra.
 
-I recently finished an Ironhack bootcamp (winner of the first edition of the IronDatathon - in-class competition similar to Kaggle contests) and previously was a senior auditor in KPMG for the financial sector.
+I did an Ironhack bootcamp (winner of the first edition of the IronDatathon - in-class competition similar to Kaggle contests) and previously was a senior auditor in KPMG for the financial sector.
 
-In my most recent experience in the Ironhack bootcamp, I have acquired knowledge in the use and understanding of Python, SQL, Scikit-learn, Pandas, SciPy, Seaborn, Matplotlib, and various other Python libraries.
+When I did the Ironhack bootcamp, I had acquired knowledge in the use and understanding of Python, SQL, Scikit-learn, Pandas, SciPy, Seaborn, Matplotlib, and various other Python libraries.
 
-I am currently working as a Data Scientist and expanding my knowledge in this field. 
+In my most recent experience in Kido Dynamics as a Data Scientist, I acquired knowledge in the use and understanding of GeoPandas, Airflow, Superset, Awswrangler and also worked developing some algorithms about geometries, did some cool geovisualitzation with folium, mplleaflet and worked on creating a population model.
+
+I am currently looking for a job as a Data Scientist outside Spain and keep expanding my knowledge in this field. 
 
 For further information don't hesitate to contact me.
 
@@ -22,6 +24,8 @@ Total and perimetral lockdowns were the strongest nonpharmaceutical intervention
 
 This page reports analyses on how mobility in Spain changed in response to policies aimed at combating the COVID-19 pandemic. Using aggregated and anonymized data from mobile phone records provided by Kido Dynamics we chart movement trends after the major mobility and social restrictions imposed by the Spanish government at different geographical scales. This work falls under the research carried out in the Distancia-COVID project of CSIC funded by AENA.
 
-## Some projects
+## Some personal projects
 
-WIP
+### [Backtesting and Quantitave trading stuff](https://github.com/jordibayer/quant-stuff/blob/main/Backtest_strat3.ipynb)
+
+Personal project about learning some of the libraries used in backtesting. Also did some correlation between FED QE, stock price, and inflation.
