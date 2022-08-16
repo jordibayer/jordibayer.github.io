@@ -13,6 +13,7 @@ In my most recent experience in Kido Dynamics as a Data Scientist, I acquired kn
 I am currently looking for a job as a Data Scientist outside Spain and keep expanding my knowledge in this field. 
 
 For further information don't hesitate to contact me.
+[Linkedin page](https://www.linkedin.com/in/jordibayerespinosa/)
 
 ## Publications and co-author
 
