@@ -1,9 +1,9 @@
 title: Jordi Bayer's portfolio
 email: jordi.be.1992@gmail.com
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: Check out some of my projects!
 url: "https://www.linkedin.com/in/jordibayerespinosa/"
 github_username:  jordibayer
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
