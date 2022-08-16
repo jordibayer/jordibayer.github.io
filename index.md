@@ -2,122 +2,30 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Jordi Bayer's Portfolio
 
-[Link to another page](./another-page.html).
+## Introduction
 
-There should be whitespace between paragraphs.
+Hello, my name is Jordi. I am passionate about technology, data, stock market analysis, and videogames. I obtained a degree in Business Administration from the Universitat Autònoma de Barcelona and a master's degree in Financial Management from the Universitat Pompeu Fabra.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I recently finished an Ironhack bootcamp (winner of the first edition of the IronDatathon - in-class competition similar to Kaggle contests) and previously was a senior auditor in KPMG for the financial sector.
 
-# Header 1
+In my most recent experience in the Ironhack bootcamp, I have acquired knowledge in the use and understanding of Python, SQL, Scikit-learn, Pandas, SciPy, Seaborn, Matplotlib, and various other Python libraries.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am currently working as a Data Scientist and expanding my knowledge in this field. 
 
-## Header 2
+For further information don't hesitate to contact me.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Publications
 
-### Header 3
+### [Radius of Gyration as predictor of COVID-19 deaths trend with three-weeks offset](https://www.medrxiv.org/content/10.1101/2021.01.30.21250708v1.article-info)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Total and perimetral lockdowns were the strongest nonpharmaceutical interventions to fight against Covid-19, as well as the with the strongest socioeconomic collateral effects. Lacking a metric to predict the effect of lockdowns in the spreading of COVID-19, authorities and decision-makers opted for preventive measures that showed either too strong or not strong enough after a period of two to three weeks, once data about hospitalizations and deaths was available. We present here the radius of gyration as a candidate predictor of the trend in deaths by COVID-19 with an offset of three weeks. Indeed, the radius of gyration aggregates the most relevant microscopic aspects of human mobility into a macroscopic value, very sensitive to temporary trends and local effects, such as lockdowns and mobility restrictions. We use mobile phone data of more than 13 million users in Spain during a period of one year (from January 6th 2020 to January 10th 2021) to compute the users’ daily radius of gyration and compare the median value of the population with the evolution of COVID-19 deaths: we find that for all weeks where the radius of gyration is above a critical value (70% of its pre-pandemic score) the number of weekly deaths increases three weeks after. The reverse also stands: for all weeks where the radius of gyration is below the critical value, the number of weekly deaths decreased after three weeks. This observation leads to two conclusions: i) the radius of gyration can be used as a predictor of COVID-19-related deaths; and ii) partial mobility restrictions are as effective as a total lockdown as far the radius of gyration is below this critical value.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### [Mobility reduction in Spain after the adoption of covid confinement measures](https://analytics.ifisc.uib-csic.es/en/covid-19-response/)
 
-#### Header 4
+This page reports analyses on how mobility in Spain changed in response to policies aimed at combating the COVID-19 pandemic. Using aggregated and anonymized data from mobile phone records provided by Kido Dynamics we chart movement trends after the major mobility and social restrictions imposed by the Spanish government at different geographical scales. This work falls under the research carried out in the Distancia-COVID project of CSIC funded by AENA.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Some projects
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+WIP
