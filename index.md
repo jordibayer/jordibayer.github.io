@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Jordi Bayer's Portfolio
 
 ## Introduction
