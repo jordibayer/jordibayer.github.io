@@ -12,7 +12,7 @@ I am currently working as a Data Scientist and expanding my knowledge in this fi
 
 For further information don't hesitate to contact me.
 
-## Publications
+## Publications and co-author
 
 ### [Radius of Gyration as predictor of COVID-19 deaths trend with three-weeks offset](https://www.medrxiv.org/content/10.1101/2021.01.30.21250708v1.article-info)
 
