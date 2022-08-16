@@ -8,7 +8,7 @@ I did an Ironhack bootcamp (winner of the first edition of the IronDatathon - in
 
 When I did the Ironhack bootcamp, I had acquired knowledge in the use and understanding of Python, SQL, Scikit-learn, Pandas, SciPy, Seaborn, Matplotlib, and various other Python libraries.
 
-In my most recent experience in Kido Dynamics as a Data Scientist, I acquired knowledge in the use and understanding of GeoPandas, Airflow, Superset, Awswrangler and also worked developing some algorithms about geometries, did some cool geovisualitzation with folium, mplleaflet and worked on creating a population model.
+In my most recent experience in Kido Dynamics as a Data Scientist, I acquired knowledge in the use and understanding of GeoPandas, Airflow, Superset, Awswrangler and also worked developing some algorithms about geometries, did some cool geovisualization with folium, mplleaflet and worked on creating a population model.
 
 I am currently looking for a job as a Data Scientist outside Spain and keep expanding my knowledge in this field. 
 
