@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello, my name is Jordi. I am passionate about technology, data, stock market analysis, and videogames. I obtained a degree in Business Administration from the Universitat Autònoma de Barcelona and a master's degree in Financial Management from the Universitat Pompeu Fabra.
+Hello, my name is Jordi. I am passionate about technology, data, stock market analysis and videogames. I obtained a degree in Business Administration from the Universitat Autònoma de Barcelona and a master's degree in Financial Management from the Universitat Pompeu Fabra.
 
 I did an Ironhack bootcamp (winner of the first edition of the IronDatathon - in-class competition similar to Kaggle contests) and previously was a senior auditor in KPMG for the financial sector.
 
