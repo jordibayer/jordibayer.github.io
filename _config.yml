@@ -3,7 +3,7 @@ logo: /assets/img/logo.png
 email: jordi.be.1992@gmail.com
 description: Check out some of my projects!
 show_downloads: false
-google_analytics: UA-108144808-1
+google_analytics:
 color-scheme: auto
 plugins:
   - jekyll-sitemap
