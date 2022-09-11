@@ -23,9 +23,3 @@ Total and perimetral lockdowns were the strongest nonpharmaceutical intervention
 ### [Mobility reduction in Spain after the adoption of covid confinement measures](https://analytics.ifisc.uib-csic.es/en/covid-19-response/)
 
 This page reports analyses on how mobility in Spain changed in response to policies aimed at combating the COVID-19 pandemic. Using aggregated and anonymized data from mobile phone records provided by Kido Dynamics we chart movement trends after the major mobility and social restrictions imposed by the Spanish government at different geographical scales. This work falls under the research carried out in the Distancia-COVID project of CSIC funded by AENA.
-
-## Some personal projects
-
-### [Backtesting and Quantitave trading stuff](https://github.com/jordibayer/quant-stuff/blob/main/Backtest_strat3.ipynb)
-
-Personal project about learning some of the libraries used in backtesting. Also did some correlation between FED QE, stock price, and inflation.
