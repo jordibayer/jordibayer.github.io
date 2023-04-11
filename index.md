@@ -2,17 +2,16 @@
 
 ## Introduction
 
-Hello, my name is Jordi. I am passionate about technology, data, stock market analysis and videogames. I obtained a degree in Business Administration from the Universitat Autònoma de Barcelona and a master's degree in Financial Management from the Universitat Pompeu Fabra.
+I am Jordi, a highly skilled data enthusiast with a passion for leveraging technology to solve complex business problems. I am passionate about technology, cryptocurrencies, data, stock market analysis and videogames.
 
-I did an Ironhack bootcamp (winner of the first edition of the IronDatathon - in-class competition similar to Kaggle contests) and previously was a senior auditor in KPMG for the financial sector.
+I earned my degree in Business Administration from the Universitat Autònoma de Barcelona and furthered my education with a master's degree in Financial Management from the renowned Universitat Pompeu Fabra. To augment my expertise, I completed the Ironhack bootcamp, where I emerged as the winner of the first edition of the IronDatathon - an in-class competition akin to Kaggle contests.
 
-When I did the Ironhack bootcamp, I had acquired knowledge in the use and understanding of Python, SQL, Scikit-learn, Pandas, SciPy, Seaborn, Matplotlib, and various other Python libraries.
+During my time at Ironhack, I honed my skills in Python, SQL, Scikit-learn, Pandas, SciPy, Seaborn, Matplotlib, and various other Python libraries. My experience extends to Kido Dynamics, where I served as a Data Scientist, gaining valuable knowledge in GeoPandas, Airflow, Superset, AWS, and developing cutting-edge algorithms related to geometries. I also developed a population model and conducted innovative geovisualizations with Folium and Mplleaflet.
 
-In my most recent experience in Kido Dynamics as a Data Scientist, I acquired knowledge in the use and understanding of GeoPandas, Airflow, Superset, Awswrangler and also worked developing some algorithms about geometries, did some cool geovisualization with folium, mplleaflet and worked on creating a population model.
+As I am eager to take on new challenges and opportunities, I am actively seeking a Data Scientist role outside Spain where I can contribute my skills and expertise to a dynamic team.
 
-I am currently looking for a job as a Data Scientist outside Spain and keep expanding my knowledge in this field. 
-
-For further information don't hesitate to contact me.
+I am confident that my broad experience and skills make me a valuable addition to any team.
+Please do not hesitate to contact me for additional information.
 
 ## Publications and co-author
 
