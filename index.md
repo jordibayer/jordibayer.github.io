@@ -6,9 +6,9 @@ I am Jordi, a highly skilled data enthusiast with a passion for leveraging techn
 
 I earned my degree in Business Administration from the Universitat Autònoma de Barcelona and furthered my education with a master's degree in Financial Management from the renowned Universitat Pompeu Fabra. To augment my expertise, I completed the Ironhack bootcamp, where I emerged as the winner of the first edition of the IronDatathon - an in-class competition akin to Kaggle contests.
 
-During my time at Ironhack, I honed my skills in Python, SQL, Scikit-learn, Pandas, SciPy, Seaborn, Matplotlib, and various other Python libraries. My experience extends to Kido Dynamics, where I served as a Data Scientist, gaining valuable knowledge in GeoPandas, Airflow, Superset, AWS, and developing cutting-edge algorithms related to geometries. I also developed a population model and conducted innovative geovisualizations with Folium and Mplleaflet.
+During my time at Ironhack, I honed my skills in Python, SQL, Scikit-learn, Pandas, SciPy, Seaborn, Matplotlib, and various other Python libraries. My experience extends to Kido Dynamics, where I served as a Data Analyst, gaining valuable knowledge in GeoPandas, Airflow, Superset, AWS, and developing cutting-edge algorithms related to geometries. I also developed a population model and conducted innovative geovisualizations with Folium and Mplleaflet.
 
-As I am eager to take on new challenges and opportunities, I am actively seeking a Data Scientist role outside Spain where I can contribute my skills and expertise to a dynamic team.
+As I am eager to take on new challenges and opportunities, I am actively seeking a Data Analyst role outside Spain where I can contribute my skills and expertise to a dynamic team.
 
 I am confident that my broad experience and skills make me a valuable addition to any team.
 Please do not hesitate to contact me for additional information.
