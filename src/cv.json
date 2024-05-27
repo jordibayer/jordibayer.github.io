@@ -186,6 +186,46 @@
       "name": "React",
       "level": "Advance",
       "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Astro",
+      "level": "Advance",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Python",
+      "level": "Advance",
+      "keywords": ["Programming", "Backend"]
+    },
+    {
+      "name": "AWS",
+      "level": "Advance",
+      "keywords": ["Cloud Computing", "Backend", "DevOps"]
+    },
+    {
+      "name": "Pandas",
+      "level": "Advance",
+      "keywords": ["Programming", "Backend", "Python", "Library"]
+    },
+    {
+      "name": "Geopandas",
+      "level": "Advance",
+      "keywords": ["Programming", "Backend", "Python", "Library", "GeoSpatial"]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Advance",
+      "keywords": ["Programming", "Statistics"]
+    },
+    {
+      "name": "Apache Superset",
+      "level": "Advance",
+      "keywords": [""]
+    },
+    {
+      "name": "Apache Airflow",
+      "level": "Advance",
+      "keywords": [""]
     }
   ],
   "languages": [
