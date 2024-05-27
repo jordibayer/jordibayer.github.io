@@ -1,0 +1,33 @@
+---
+import RedirectIcon from "./RedirectIcon.astro";
+import CV from "@/components/icons/Cv.astro";
+import GitHub from "@/components/icons/GitHub.astro";
+import LinkedIn from "@/components/icons/LinkedIn.astro";
+import Webpage from "@/components/icons/Webpage.astro";
+
+import { basics } from "@cv";
+
+const { name, profiles } = basics;
+
+const SOCIAL_ICONS: Record<string, any> = { GitHub, LinkedIn, Webpage, CV };
+---
+
+<div class="flex sm:gap-x-5 gap-1">
+  {
+    profiles
+      .filter((profile) => profile.network !== "Webpage")
+      .map(({ network, url }) => {
+        const Icon = SOCIAL_ICONS[network];
+
+        return (
+          <RedirectIcon
+            href={url}
+            title={`Visit the profile of ${name} in ${network}`}
+            target="_blank"
+            rel="noopener noreferrer">
+            <Icon />
+          </RedirectIcon>
+        );
+      })
+  }
+</div>

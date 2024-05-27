@@ -1,0 +1,228 @@
+{
+  "basics": {
+    "name": "Jordi Bayer Espinosa",
+    "label": "Data Scientist & Software Engineer",
+    "image": "https://avatars.githubusercontent.com/u/46814329?v=4",
+    "email": "jordi.bayere@gmail.com",
+    "url": "https://jordibayer.github.io",
+    "summary": "I am Jordi, a highly skilled data enthusiast with a passion for leveraging technology to solve complex business problems.\\n I am passionate about programming, cryptocurrencies, data, stock market analysis and videogames.\\n I earned my degree in Business Administration from the Universitat Autònoma de Barcelona and furthered my education with a master’s degree in Financial Management from the renowned Universitat Pompeu Fabra.\\n To augment my expertise, I completed the Ironhack bootcamp, where I emerged as the winner of the first edition of the IronDatathon an in-class competition akin to Kaggle contests.\\n During my time at Ironhack, I honed my skills in Python, SQL, Scikit-learn, Pandas, SciPy, Seaborn, Matplotlib, and various other Python libraries.\\n My experience extends to Kido Dynamics, where I served as a Data Analyst, gaining valuable knowledge in GeoPandas, Airflow, Superset, AWS, and developing cutting-edge algorithms related to geometries. I also developed a population model and conducted innovative geovisualizations with Folium and Mplleaflet.\\n As I am eager to take on new challenges and opportunities, I am actively seeking a Data Analyst role outside Spain where I can contribute my skills and expertise to a dynamic team.\\n I am confident that my broad experience and skills make me a valuable addition to any team.\\n Please do not hesitate to contact me for additional information.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "region": "Spain"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jordibayerespinosa",
+        "url": "https://linkedin.com/in/jordibayerespinosa"
+      },
+      {
+        "network": "Webpage",
+        "username": "",
+        "url": "/"
+      },
+      {
+        "network": "GitHub",
+        "username": "jordibayer",
+        "url": "https://github.com/jordibayer"
+      },
+      {
+        "network": "CV",
+        "username": "",
+        "url": "/cv"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Kido Dynamics",
+      "position": "Data Scientist / Software Engineer",
+      "url": "https://www.kidodynamics.com/",
+      "startDate": "2019-10-01",
+      "endDate": "2022-03-01",
+      "summary": "Developed a population model using Scikit-learn to analyze demographic trends and patterns. Also used BeatifulSoup and Selenium to retrieve the data.\\n Created several endpoints using FastApi.\\n Designed and implemented visually appealing geo-visualizations using Plotly and Geopandas to enhance data exploration.\\n Developed algorithms to merge polygons based on specific criteria, enhancing spatial data analysis.\\n Created automation pipelines utilizing Python scripts and Airflow to streamline data processing and analysis.\\n Constructed interactive dashboards using Apache Superset to facilitate data-driven decision-making.\\n Proficient in managing large data files exceeding 100GB in size using Python.",
+      "highlights": [""]
+    },
+    {
+      "name": "KPMG",
+      "position": "Senior Auditor",
+      "url": "https://kpmg.com/",
+      "startDate": "2016-09-01",
+      "endDate": "2019-02-01",
+      "summary": "Analysis of the business process, design evaluation and quality of internal controls.\\n Analysis of the credit risk areas under local regulations (Bank of Spain) and IFRS.\\n Analysis of the financial and solvency situation of the main clients of the banking entities.\\n Identify opportunities for performance improvement.\\n Directly responsible for reporting to Managers and Partners.\\n Responsible for the management and coordination of teams of 2 to 5 people.\\n Client portfolio: Deutsche Bank, SAE and subsidiaries, Banca March, Institut Català de Finances (ICF), Caixa d'Arquitectes, Private Bank Degroof, Caixa d'Enginyers.",
+      "highlights": [""]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ironhack",
+      "url": "https://www.ironhack.com",
+      "area": "Data Scientist, Data Analytics and Data Processing",
+      "studyType": "Bootcamp",
+      "startDate": "2019-02-01",
+      "endDate": "2019-09-01",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "UPF Barcelona School of Management",
+      "url": "https://www.bsm.upf.edu/en",
+      "area": "Degree in Financial Management and Audit, Accounting and Finance",
+      "studyType": "Master",
+      "startDate": "2016-01-01",
+      "endDate": "2017-01-01",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Universitat Autònoma de Barcelona",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Degree in Business Administration and Management",
+      "studyType": "Bachelor",
+      "startDate": "2012-09-01",
+      "endDate": "2016-06-01",
+      "score": "",
+      "courses": [""]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Project of IronDatathon",
+      "date": "2019-04-01",
+      "awarder": "Ironhack",
+      "summary": "Inclass competition. It was a business case of a cookies company. We had to choose which products the company had to keep or delete."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Radius of Gyration as predictor of COVID-19 deaths trend with three-weeks offset",
+      "publisher": "Kido Dynamics",
+      "releaseDate": "2021-02-01",
+      "url": "https://www.medrxiv.org/content/10.1101/2021.01.30.21250708v1.article-info",
+      "summary": "Lockdowns, both total and perimetral, were the most effective nonpharmaceutical interventions against COVID-19 but also had significant socioeconomic impacts. Decision-makers struggled with predicting the appropriate level of restrictions due to the lack of immediate data on their effects.\\n The radius of gyration, derived from mobile phone data of over 13 million users in Spain, aggregates key aspects of human mobility into a sensitive metric that predicts COVID-19 death trends with a three-week offset.\\n Analysis showed that when the radius of gyration exceeds 70% of its pre-pandemic level, COVID-19 deaths increase three weeks later, and conversely, deaths decrease when the radius is below this threshold, suggesting it as a reliable predictor and indicating that partial mobility restrictions can be as effective as total lockdowns."
+    },
+    {
+      "name": "Mobility reduction in Spain after the adoption of covid confinement measures",
+      "publisher": "Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)",
+      "releaseDate": "2020-09-01",
+      "url": "https://analytics.ifisc.uib-csic.es/en/covid-19-response/",
+      "summary": "This page reports analyses on how mobility in Spain changed in response to policies aimed at combating the COVID-19 pandemic.\\n Using aggregated and anonymized data from mobile phone records provided by Kido Dynamics we chart movement trends after the major mobility and social restrictions imposed by the Spanish government at different geographical scales.\\n This work falls under the research carried out in the Distancia-COVID project of CSIC funded by AENA"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Advance",
+      "keywords": ["Web Development", "Frontend", "CSS Framework", "Responsive Design"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advance",
+      "keywords": ["Web Development", "Frontend", "Backend"]
+    },
+    {
+      "name": "Node",
+      "level": "Advance",
+      "keywords": ["Web Development", "Backend", "JavaScript"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Advance",
+      "keywords": ["Databases", "SQL", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "Advance",
+      "keywords": ["Version control", "Collaborative", "Source code"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advance",
+      "keywords": ["Version control", "Collaborative", "Source code", "Git"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Advance",
+      "keywords": ["Web Development", "Frontend", "React Framework", "SSR", "Static Generation"]
+    },
+    {
+      "name": "React",
+      "level": "Advance",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Catalan",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Markets",
+      "keywords": ["", ""]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "The Wild Oasis",
+      "isActive": false,
+      "description": "Intranet for a fictional hotel",
+      "image": "/projects/two.webp",
+      "highlights": ["React", "Supabase", "Vite", "StyledComponents", "ReactQuery", "ReactHookForm", "Recharts"],
+      "github": "https://github.com/jordibayer/the-wild-oasis",
+      "url": "https://the-wild-oasis-zeta-nine.vercel.app/"
+    }
+  ]
+}

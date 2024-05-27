@@ -1,0 +1,33 @@
+---
+import Layout from "@/layouts/LayoutIndex.astro";
+import Timeline from "@/components/main_page/Timeline.astro";
+import Projects from "@/components/main_page/Projects.astro";
+
+import { basics } from "@cv";
+import Publications from "@/components/main_page/Publications.astro";
+const { summary } = basics;
+const paragraphs = summary.split("\\n");
+---
+
+<Layout title="Personal Web Pages">
+  <main class="container">
+    <section class="w-full mx-auto">
+      <h1 class="text-pretty sm:text-base text-sm opacity-80">
+        {paragraphs.map((paragraph) => <p class="mt-0.2">{paragraph}</p>)}
+      </h1>
+    </section>
+    <h1 class="text-xl mt-6 sm:mt-14 mb-2 font-medium sm:text-3xl text-primary dark:text-white">Publications</h1>
+    <section>
+      <Publications />
+    </section>
+    <h1 class="text-xl mt-6 sm:mt-14 mb-2 font-medium sm:text-3xl text-primary dark:text-white">Experience</h1>
+    <section>
+      <Timeline />
+    </section>
+
+    <h1 class="text-xl mt-6 sm:mt-14 mb-2 font-medium sm:text-3xl text-primary dark:text-white">Projects</h1>
+    <section class="sm:mt-6">
+      <Projects />
+    </section>
+  </main>
+</Layout>
