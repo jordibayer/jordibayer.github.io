@@ -4,7 +4,9 @@ import Section from "@/components/cv_page/Section.astro";
 import { projects } from "@cv";
 ---
 
-<Section title="Projects">
+<Section
+  title="Projects"
+  classCss="no-print">
   <ul>
     {
       projects.map(({ url, description, highlights, name }) => {
