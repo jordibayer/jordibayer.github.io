@@ -7,14 +7,23 @@ import LinkedIn from "@/components/icons/LinkedIn.astro";
 import GitHub from "@/components/icons/GitHub.astro";
 import WorldMap from "@/components/icons/WorldMap.astro";
 
+function removeProtocol(url: string | undefined) {
+  if (!url) return;
+  const parsedUrl = new URL(url);
+  return parsedUrl.hostname + parsedUrl.pathname;
+}
+
 const { name, label, image, location, profiles, email } = basics;
 const { city, region } = location;
 
 const linkedInfo = profiles.find(({ network }) => network === "LinkedIn");
 const linkedUrl = linkedInfo?.url;
 
+const webpageInfo = profiles.find(({ network }) => network === "Webpage");
+const webpageUrl = webpageInfo?.url;
+
 const SOCIAL_ICONS: Record<string, any> = { GitHub, LinkedIn, Webpage };
-const printInfo = [email, linkedUrl].filter(Boolean).join(" • ");
+const printInfo = [email, removeProtocol(linkedUrl), removeProtocol(webpageUrl)].filter(Boolean).join(" • ");
 ---
 
 <Section>
@@ -61,12 +70,12 @@ const printInfo = [email, linkedUrl].filter(Boolean).join(" • ");
         }
       </footer>
     </div>
-    <!-- <figure>
+    <figure class="no-print">
       <img
         src={image}
         alt={name}
       />
-    </figure> -->
+    </figure>
   </div>
 </Section>
 
