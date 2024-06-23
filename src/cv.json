@@ -263,6 +263,26 @@
       "highlights": ["React", "Supabase", "Vite", "StyledComponents", "ReactQuery", "ReactHookForm", "Recharts"],
       "github": "https://github.com/jordibayer/the-wild-oasis",
       "url": "https://the-wild-oasis-zeta-nine.vercel.app/"
+    },
+    {
+      "name": "Titanic Project Survive",
+      "isActive": false,
+      "description": "Would you survive the Titanic sink?",
+      "image": "/projects/titanic.webp",
+      "highlights": [
+        "FastAPI",
+        "Poetry",
+        "Scikit-learn",
+        "XGBoost",
+        "React",
+        "Next.js",
+        "TailwindCSS",
+        "React Hook Form",
+        "Sonner",
+        "Pandas"
+      ],
+      "github": "https://github.com/jordibayer/titanic_project",
+      "url": "https://titanic-project.vercel.app/"
     }
   ]
 }
