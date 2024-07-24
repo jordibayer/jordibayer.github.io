@@ -279,7 +279,8 @@
         "TailwindCSS",
         "React Hook Form",
         "Sonner",
-        "Pandas"
+        "Pandas",
+        "Docker"
       ],
       "github": "https://github.com/jordibayer/titanic_project",
       "url": "https://titanic-project.vercel.app/"
