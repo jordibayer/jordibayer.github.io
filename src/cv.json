@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Jordi Bayer Espinosa",
-    "label": "Data Engineer & Software Engineer | MLOps @ Caixabank",
+    "label": "Data Scientist | MLOps @ Caixabank",
     "image": "https://avatars.githubusercontent.com/u/46814329?v=4",
     "email": "jordi.bayere@gmail.com",
     "url": "https://jordibayer.github.io",
-    "summary": "I am Jordi, a highly skilled data enthusiast with a passion for leveraging technology to solve complex business problems.\\n I am passionate about programming, cryptocurrencies, data and stock market analysis.\\n I earned my degree in Business Administration from the Universitat Autònoma de Barcelona and furthered my education with a master’s degree in Financial Management from the renowned Universitat Pompeu Fabra.\\n To augment my expertise, I completed the Ironhack bootcamp, where I emerged as the winner of the first edition of the IronDatathon an in-class competition akin to Kaggle contests.\\n During my time at Ironhack, I honed my skills in Python, SQL, Scikit-learn, Pandas, SciPy, Seaborn, Matplotlib, and various other Python libraries.\\n My experience extends to Kido Dynamics, where I served as a Data Scientist, gaining valuable knowledge in GeoPandas, Airflow, Superset, AWS, and developing cutting-edge algorithms related to geometries. I also developed a population model and conducted innovative geovisualizations with Folium and Mplleaflet.\\n I took two years off to focus on personal growth and professional development.\\n During the first year, I embarked on a journey across Europe, exploring diverse cultures, broadening my perspectives and honing my adaptability in new environments.\\n In the second year, I dedicated myself to enhancing my programming skills and expanding into front-end development. I learned HTML, CSS, JavaScript, React, and Node, which has significantly broadened my technical abilities and understanding of full-stack development.\\n I am eager to take on new challenges and opportunities, and I am actively seeking a Data Engineer & Software Engineer role where I can contribute my skills and expertise to a dynamic team. I am open to positions both domestically and internationally.\\n I am confident that my broad experience and skills make me a valuable addition to any team.\\n Please do not hesitate to contact me for additional information.",
+    "summary": "I am Jordi, a highly skilled data enthusiast with a passion for leveraging technology to solve complex business problems.\\n I am passionate about programming, cryptocurrencies, data and stock market analysis.\\n I earned my degree in Business Administration from the Universitat Autònoma de Barcelona and furthered my education with a master’s degree in Financial Management from the renowned Universitat Pompeu Fabra.\\n To augment my expertise, I completed the Ironhack bootcamp, where I emerged as the winner of the first edition of the IronDatathon an in-class competition akin to Kaggle contests.\\n During my time at Ironhack, I honed my skills in Python, SQL, Scikit-learn, Pandas, SciPy, Seaborn, Matplotlib, and various other Python libraries.\\n My experience extends to Kido Dynamics, where I served as a Data Scientist, gaining valuable knowledge in GeoPandas, Airflow, Superset, AWS, and developing cutting-edge algorithms related to geometries. I also developed a population model and conducted innovative geovisualizations with Folium and Mplleaflet.\\n I took two years off to focus on personal growth and professional development.\\n During the first year, I embarked on a journey across Europe, exploring diverse cultures, broadening my perspectives and honing my adaptability in new environments.\\n In the second year, I dedicated myself to enhancing my programming skills and expanding into front-end development. I learned HTML, CSS, JavaScript, React, and Node, which has significantly broadened my technical abilities and understanding of full-stack development.\\n I am eager to take on new challenges and opportunities, and I am actively seeking a Data Scientist role where I can contribute my skills and expertise to a dynamic team. I am open to positions both domestically and internationally.\\n I am confident that my broad experience and skills make me a valuable addition to any team.\\n Please do not hesitate to contact me for additional information.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -39,7 +39,7 @@
   "work": [
     {
       "name": "Caixabank",
-      "position": "Senior Machine Learning Engineer",
+      "position": "Senior Data Scientist",
       "url": "https://www.caixabank.com/en/home_en.html",
       "startDate": "2024-09-01",
       "summary": "Driving modernization efforts by leading the migration of an internal Python framework to Google Cloud Platform (GCP), ensuring scalability, improved performance, and alignment with cloud-native best practices.\\n Maintaining and optimizing the internal Python library, implementing updates, bug fixes, and enhancements to support seamless functionality across teams.\\n Implemented automated model registration with MLflow, streamlining the process of tracking, versioning, and deploying machine learning models for production use.\\n Collaborating across teams to identify improvements for the internal library, ensuring compatibility with evolving tools, technologies, and business requirements.",
@@ -208,12 +208,12 @@
     {
       "name": "AWS",
       "level": "Advance",
-      "keywords": ["Cloud Computing", "Backend", "DevOps", "Data Engineer", "MLOps"]
+      "keywords": ["Cloud Computing", "Backend", "DevOps", "Data Engineer", "MLOps", "Data Scientist"]
     },
     {
       "name": "GCP",
       "level": "Advance",
-      "keywords": ["Cloud Computing", "Backend", "DevOps", "Data Engineer", "MLOps"]
+      "keywords": ["Cloud Computing", "Backend", "DevOps", "Data Engineer", "MLOps", "Data Scientist"]
     },
     {
       "name": "Pandas",
