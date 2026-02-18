@@ -2,9 +2,10 @@
 import Layout from "@/layouts/LayoutIndex.astro";
 import Timeline from "@/components/main_page/Timeline.astro";
 import Projects from "@/components/main_page/Projects.astro";
+import Publications from "@/components/main_page/Publications.astro";
+import Certifications from "@/components/main_page/Certifications.astro";
 
 import { basics } from "@cv";
-import Publications from "@/components/main_page/Publications.astro";
 const { summary } = basics;
 const paragraphs = summary.split("\\n");
 ---
@@ -19,6 +20,10 @@ const paragraphs = summary.split("\\n");
     <h1 class="text-xl mt-6 sm:mt-14 mb-2 font-medium sm:text-3xl text-primary dark:text-white">Publications</h1>
     <section>
       <Publications />
+    </section>
+    <h1 class="text-xl mt-6 sm:mt-14 mb-2 font-medium sm:text-3xl text-primary dark:text-white">Certifications</h1>
+    <section>
+      <Certifications />
     </section>
     <h1 class="text-xl mt-6 sm:mt-14 mb-2 font-medium sm:text-3xl text-primary dark:text-white">Experience</h1>
     <section>

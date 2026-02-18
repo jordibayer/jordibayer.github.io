@@ -2,6 +2,7 @@
 import Section from "@/components/cv_page/Section.astro";
 
 import { certificates } from "@cv";
+import GCP from "@/components/icons/GCP.astro";
 ---
 
 <Section title="Certifications">
@@ -19,7 +20,15 @@ import { certificates } from "@cv";
                     target="_blank">
                     <h3>{name}</h3>
                   </a>
-                  <h4>{issuer}</h4>
+                  <h4 class="issuer">
+                    {issuer}
+                    {issuer === "Google" && (
+                      <GCP
+                        aria-hidden="true"
+                        class="issuer-icon"
+                      />
+                    )}
+                  </h4>
                 </div>
                 <time>{year}</time>
               </header>
@@ -58,6 +67,17 @@ import { certificates } from "@cv";
     text-wrap: pretty;
   }
 
+  .issuer {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .issuer-icon {
+    width: 14px;
+    height: 14px;
+  }
+
   header {
     display: flex;
     justify-content: space-between;
@@ -75,6 +95,12 @@ import { certificates } from "@cv";
     time {
       text-align: right;
       text-wrap: nowrap;
+    }
+  }
+
+  @media print {
+    .issuer-icon {
+      display: none;
     }
   }
 </style>
