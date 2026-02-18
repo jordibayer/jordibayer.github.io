@@ -117,10 +117,16 @@
   ],
   "certificates": [
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
+      "name": "Professional Machine Learning Engineer Certification",
+      "date": "2025-12-15",
+      "issuer": "Google",
+      "url": "https://www.credly.com/badges/9c67b94c-51ba-4cf8-bf51-8c4d8e6e2191"
+    },
+    {
+      "name": "Generative AI Leader Certification",
+      "date": "2026-02-09",
+      "issuer": "Google",
+      "url": "https://www.credly.com/badges/a087ef61-7a29-4245-84a2-f7d24011e3fc"
     }
   ],
   "publications": [
