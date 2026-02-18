@@ -1,6 +1,5 @@
 ---
 import { certificates } from "@cv";
-import GCP from "@/components/icons/GCP.astro";
 ---
 
 <div>
@@ -21,12 +20,6 @@ import GCP from "@/components/icons/GCP.astro";
                   </a>
                   <h4 class="font-semibold text-sm sm:text-xl text-gray-600 dark:text-white flex items-center gap-1">
                     {issuer}
-                    {issuer === "Google" && (
-                      <GCP
-                        aria-hidden="true"
-                        class="w-3.5 h-3.5 issuer-icon"
-                      />
-                    )}
                   </h4>
                 </div>
                 <time class="text-xs pt-2 sm:text-sm text-gray-600/90 dark:text-white/90">{year}</time>
@@ -38,12 +31,4 @@ import GCP from "@/components/icons/GCP.astro";
     }
   </ul>
 </div>
-
-<style>
-  @media print {
-    .issuer-icon {
-      display: none;
-    }
-  }
-</style>
 

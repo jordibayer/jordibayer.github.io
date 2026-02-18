@@ -2,7 +2,7 @@
 import Section from "@/components/cv_page/Section.astro";
 
 import { certificates } from "@cv";
-import GCP from "@/components/icons/GCP.astro";
+import Google from "@/components/icons/Google.astro";
 ---
 
 <Section title="Certifications">
@@ -23,7 +23,7 @@ import GCP from "@/components/icons/GCP.astro";
                   <h4 class="issuer">
                     {issuer}
                     {issuer === "Google" && (
-                      <GCP
+                      <Google
                         aria-hidden="true"
                         class="issuer-icon"
                       />
