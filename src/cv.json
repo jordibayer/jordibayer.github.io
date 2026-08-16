@@ -281,15 +281,6 @@
   ],
   "projects": [
     {
-      "name": "The Wild Oasis",
-      "isActive": false,
-      "description": "Intranet for a fictional hotel",
-      "image": "/projects/two.webp",
-      "highlights": ["React", "Supabase", "Vite", "StyledComponents", "ReactQuery", "ReactHookForm", "Recharts"],
-      "github": "https://github.com/jordibayer/the-wild-oasis",
-      "url": "https://the-wild-oasis-zeta-nine.vercel.app/"
-    },
-    {
       "name": "Titanic Survive",
       "isActive": false,
       "description": "Would you survive the Titanic sink?",
